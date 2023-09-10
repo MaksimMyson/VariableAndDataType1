@@ -5,3 +5,5 @@ while i == 0 :
     c = int(input("Число-3: "))
     D = a * b * c
     print(D)
+    S = a+b+c
+    print(S)
